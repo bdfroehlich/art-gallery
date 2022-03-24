@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React app for grabing images from the Metropolitan Museum of Art's API
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
